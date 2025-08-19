@@ -2,5 +2,5 @@ title: Ong Hock Soon
 logo: /assets/img//profile.webp
 description: Learning and Growing Every Day.
 # show_downloads: false
-github.is_project_page : false
+# github.is_project_page : false
 theme: jekyll-theme-minimal
