@@ -1,8 +1,9 @@
-Senior Engineer
-👨‍💻 Technical Skill:
+# Senior Engineer
 
+
+### 👨‍💻 Technical Skill: 
 System Administration, Technical Support, Monitoring, Cloud Administration (Moving Towards)
-Personal Blog:
+
 
 IT Blog Site at Wordpress
 📃 Certificate:
